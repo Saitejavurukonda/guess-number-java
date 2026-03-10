@@ -86,6 +86,6 @@ By completing this project, you will learn:
 ## Author
 
 Saiteja Vurukonda
-B.Tech CSE Student
+B.Tech CSE -IoT Student
 
 GitHub: https://github.com/Saitejavurukonda
