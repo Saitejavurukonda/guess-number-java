@@ -9,7 +9,7 @@ public class GuessGame {
 
         int number = rand.nextInt(100) + 1;
         
-System.out.println("Secret number: " + number);
+   //*System.out.println("Secret number: " + number);
 
         while (true) {
 
